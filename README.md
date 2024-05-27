@@ -1,6 +1,6 @@
 # Degen-Token-ERC-20-Unlocking-the-Future-of-Gaming
 
-This Solidity smart contract, named DegenToken, is developed to create a unique token that can reward players and take their game to the next level. It enables players to earn tokens in the game and exchange them for rewards in the in-game store, thereby enhancing player loyalty and retention. The token is deployed on the Ethereum blockchain via Remix IDE, providing fast and low-fee transactions, and facilitating seamless trading and utilization within the gaming ecosystem.
+This Solidity smart contract, named `DegenToken`, is developed to create a unique token that can reward players and take their game to the next level. It enables players to earn tokens in the game and exchange them for rewards in the in-game store, thereby enhancing player loyalty and retention. The token is deployed on the Ethereum blockchain via Remix IDE, providing fast and low-fee transactions, and facilitating seamless trading and utilization within the gaming ecosystem.
 
 ### Requirements 
 
